@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
+# Welcome to my Github profile
+### Currently it is under development but soon you should see some interesting stuff here 😁
 <!--
 **EduardoModel/EduardoModel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
